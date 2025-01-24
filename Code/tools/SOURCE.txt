@@ -1,0 +1,1 @@
+https://github.com/arduino/arduino-cli/releases/latest
