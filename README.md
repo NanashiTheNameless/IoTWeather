@@ -1,2 +1,2 @@
 # IoTWeather
-Simple IotWeather stuff, Released As-Is no support of any ind
+Simple IotWeather stuff, Released As-Is no support of any kind
