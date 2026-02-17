@@ -1,6 +1,6 @@
 // Copyright: NamelessNanashi 2024
-// License: https://oql.avris.it/license/v1.2?c=NamelessNanashi%7Chttps%3A%2F%2FNamelessNanashi.dev%2F
-// LicenseID: LicenseRef-OQL-1.2
+// License: https://oql.avris.it/license/v1.3?c=NamelessNanashi%7Chttps%3A%2F%2FNamelessNanashi.dev%2F
+// LicenseID: LicenseRef-OQL-1.3
 
 #include <WiFi.h>
 #include <Wire.h>
